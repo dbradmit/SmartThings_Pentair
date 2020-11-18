@@ -19,9 +19,9 @@ definition(
 		author: "Brad Sileo",
 		description: "This is a SmartApp to connect to the nodejs_poolController and create devices to manage it within SmartThings",
 		category: "SmartThings Labs",
-		iconUrl: "http://cdn.device-icons.smartthings.com/Health & Wellness/health2-icn.png",
-		iconX2Url: "http://cdn.device-icons.smartthings.com/Health & Wellness/health2-icn@2x.png",
-		iconX3Url: "http://cdn.device-icons.smartthings.com/Health & Wellness/health2-icn@3x.png")
+		iconUrl: "http://cdn.device-icons.smartthings.com/Health%20&%20Wellness/health2-icn.png",
+		iconX2Url: "http://cdn.device-icons.smartthings.com/Health%20&%20Wellness/health2-icn@2x.png",
+		iconX3Url: "http://cdn.device-icons.smartthings.com/Health%20&%20Wellness/health2-icn@3x.png")
 
 
 preferences {
